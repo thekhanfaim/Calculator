@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="1" android:background="res/drawable/backgrundcolor.xml" android:layout_width="-1" android:layout_height="-1">
+	<LinearLayout android:layout_width="370dp" android:layout_height="270dp" android:layout_marginLeft="7dp" android:layout_marginTop="10dp" android:layout_marginRight="4dp">
+		<TextView android:textSize="60dp" android:textStyle="0x1" android:textColor="000" android:gravity="0x5" android:id="false" android:padding="15dp" android:layout_width="362dp" android:layout_height="260dp" android:layout_marginLeft="7dp" />
+	</LinearLayout>
+	<LinearLayout android:orientation="0" android:layout_width="385dp" android:layout_height="450dp" android:layout_marginLeft="0dp" android:layout_marginTop="35dp" android:layout_marginRight="8dp">
+		<LinearLayout android:orientation="1" android:padding="5dp" android:layout_width="90dp" android:layout_height="460dp">
+			<Button android:textSize="25dp" android:textStyle="0x1" android:id="false" android:background="res/drawable-v24/keyboard_btn.png" android:layout_width="-1" android:layout_height="80dp" android:text="Hii" android:textAllCaps="false" />
+			<Button android:textSize="25dp" android:textStyle="0x1" android:id="false" android:background="res/drawable-v24/keyboard_btn.png" android:layout_width="-1" android:layout_height="80dp" android:text="7" />
+			<Button android:textSize="25dp" android:textStyle="0x1" android:id="false" android:background="res/drawable-v24/keyboard_btn.png" android:layout_width="-1" android:layout_height="80dp" android:text="4" />
+			<Button android:textSize="25dp" android:textStyle="0x1" android:id="false" android:background="res/drawable-v24/keyboard_btn.png" android:layout_width="-1" android:layout_height="80dp" android:text="1" />
+			<Button android:textSize="40dp" android:textStyle="0x1" android:id="false" android:background="res/drawable-v24/keyboard_btn.png" android:layout_width="-1" android:layout_height="80dp" android:text="." />
+		</LinearLayout>
+		<LinearLayout android:orientation="1" android:padding="5dp" android:layout_width="90dp" android:layout_height="460dp">
+			<Button android:textSize="25dp" android:textStyle="0x1" android:id="false" android:background="res/drawable-v24/keyboard_btn.png" android:layout_width="-1" android:layout_height="80dp" android:text="C" />
+			<Button android:textSize="25dp" android:textStyle="0x1" android:id="false" android:background="res/drawable-v24/keyboard_btn.png" android:layout_width="-1" android:layout_height="80dp" android:text="8" />
+			<Button android:textSize="25dp" android:textStyle="0x1" android:id="false" android:background="res/drawable-v24/keyboard_btn.png" android:layout_width="-1" android:layout_height="80dp" android:text="5" />
+			<Button android:textSize="25dp" android:textStyle="0x1" android:id="false" android:background="res/drawable-v24/keyboard_btn.png" android:layout_width="-1" android:layout_height="80dp" android:text="2" />
+			<Button android:textSize="25dp" android:textStyle="0x1" android:id="false" android:background="res/drawable-v24/keyboard_btn.png" android:layout_width="-1" android:layout_height="80dp" android:text="0" />
+		</LinearLayout>
+		<LinearLayout android:orientation="1" android:padding="5dp" android:layout_width="90dp" android:layout_height="460dp">
+			<Button android:textSize="25dp" android:textStyle="0x1" android:id="false" android:background="res/drawable-v24/keyboard_btn.png" android:layout_width="-1" android:layout_height="80dp" android:text="AC" />
+			<Button android:textSize="25dp" android:textStyle="0x1" android:id="false" android:background="res/drawable-v24/keyboard_btn.png" android:layout_width="-1" android:layout_height="80dp" android:text="9" />
+			<Button android:textSize="25dp" android:textStyle="0x1" android:id="false" android:background="res/drawable-v24/keyboard_btn.png" android:layout_width="-1" android:layout_height="80dp" android:text="6" />
+			<Button android:textSize="25dp" android:textStyle="0x1" android:id="false" android:background="res/drawable-v24/keyboard_btn.png" android:layout_width="-1" android:layout_height="80dp" android:text="3" />
+			<Button android:textSize="25dp" android:textStyle="0x1" android:id="false" android:background="res/drawable-v24/keyboard_btn.png" android:layout_width="-1" android:layout_height="80dp" android:text="%" />
+		</LinearLayout>
+		<LinearLayout android:orientation="1" android:padding="5dp" android:layout_width="90dp" android:layout_height="460dp">
+			<Button android:textSize="25dp" android:textStyle="0x1" android:id="false" android:background="res/drawable-v24/keyboard_btn.png" android:layout_width="-1" android:layout_height="80dp" android:text="/" />
+			<Button android:textSize="25dp" android:textStyle="0x1" android:id="false" android:background="res/drawable-v24/keyboard_btn.png" android:layout_width="-1" android:layout_height="80dp" android:text="X" />
+			<Button android:textSize="25dp" android:textStyle="0x1" android:id="false" android:background="res/drawable-v24/keyboard_btn.png" android:layout_width="-1" android:layout_height="80dp" android:text="-" />
+			<Button android:textSize="25dp" android:textStyle="0x1" android:id="false" android:background="res/drawable-v24/keyboard_btn.png" android:layout_width="-1" android:layout_height="80dp" android:text="+" />
+			<Button android:textSize="25dp" android:textStyle="0x1" android:id="false" android:background="res/drawable-v24/keyboard_btn.png" android:layout_width="-1" android:layout_height="80dp" android:text="=" />
+		</LinearLayout>
+	</LinearLayout>
+</LinearLayout>

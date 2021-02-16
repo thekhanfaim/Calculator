@@ -1,0 +1,56 @@
+Summary for /storage/emulated/0/show-java/sources/com.example.calculator/jar-files/1.jar
+Decompiled with CFR 0.0
+
+
+org.mozilla.javascript.ImporterTopLevel
+----------------------------
+
+getPackageProperty(java.lang.String org.mozilla.javascript.Scriptable )
+  Loose catch block
+
+
+org.mozilla.javascript.commonjs.module.Require
+----------------------------
+
+getExportedModuleInterface(org.mozilla.javascript.Context java.lang.String java.net.URI java.net.URI boolean )
+  Loose catch block
+
+
+org.mozilla.javascript.regexp.NativeRegExp
+----------------------------
+
+emitREBytecode(org.mozilla.javascript.regexp.CompilerState org.mozilla.javascript.regexp.RECompiled int org.mozilla.javascript.regexp.RENode )
+  Unable to fully structure code
+executeREBytecode(org.mozilla.javascript.regexp.REGlobalData java.lang.String int )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Extractable last case doesn't follow previous
+parseTerm(org.mozilla.javascript.regexp.CompilerState )
+  Unable to fully structure code
+simpleMatch(org.mozilla.javascript.regexp.REGlobalData java.lang.String int byte[] int int boolean )
+  Unable to fully structure code
+
+
+org.mozilla.javascript.regexp.NativeRegExpCtor
+----------------------------
+
+findInstanceIdInfo(java.lang.String )
+  Unable to fully structure code
+
+
+org.mozilla.javascript.tools.shell.Global
+----------------------------
+
+pipe(boolean java.io.InputStream java.io.OutputStream )
+  Unable to fully structure code
+readUrl(java.lang.String java.lang.String boolean )
+  Unable to fully structure code
+runProcess(java.lang.String[] java.lang.String[] java.io.File java.io.InputStream java.io.OutputStream java.io.OutputStream )
+  Unable to fully structure code
+runDoctest(org.mozilla.javascript.Context org.mozilla.javascript.Scriptable java.lang.String java.lang.String int )
+  Loose catch block
+
+
+org.mozilla.javascript.xmlimpl.XMLObjectImpl
+----------------------------
+
+initPrototypeId(int )
+  Unable to fully structure code
